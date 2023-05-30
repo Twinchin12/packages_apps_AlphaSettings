@@ -610,6 +610,8 @@
     <!-- Quick Settings brightness icon -->
     <string name="qs_show_auto_brightness_title">Auto brightness icon</string>
     <string name="qs_show_auto_brightness_summary">Show toggle for adaptive brightness near the slider</string>
+    <string name="qs_brightness_haptic_feedback_title">Haptic feedback</string>
+    <string name="qs_brightness_haptic_feedback_summary">Haptic feedback when adjusting brightness (Requires touch feedback to be enabled)</string>
 
     <!-- Statusbar colored icons -->
     <string name="statusbar_colored_icons_title">Colored icons</string>
